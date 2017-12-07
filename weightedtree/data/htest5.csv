@@ -1,0 +1,150 @@
+id,value
+ENCODE,
+ENCODE.immortalized cell line,
+ENCODE.immortalized cell line.3D chromatin structure,
+ENCODE.immortalized cell line.3D chromatin structure.5C,1
+ENCODE.immortalized cell line.3D chromatin structure.ChIA-PET,1
+ENCODE.immortalized cell line.3D chromatin structure.HiC,1
+ENCODE.immortalized cell line.DNA accessibility,
+ENCODE.immortalized cell line.DNA accessibility.DNase-seq,1
+ENCODE.immortalized cell line.DNA accessibility.FAIRE-seq,1
+ENCODE.immortalized cell line.DNA accessibility.MNase-seq,1
+ENCODE.immortalized cell line.DNA accessibility.genetic modification followed by DNase-seq,1
+ENCODE.immortalized cell line.DNA binding,
+ENCODE.immortalized cell line.DNA binding.ChIP-seq,1
+ENCODE.immortalized cell line.DNA methylation,
+ENCODE.immortalized cell line.DNA methylation.DNA methylation profiling by array assay,1
+ENCODE.immortalized cell line.DNA methylation.MRE-seq,1
+ENCODE.immortalized cell line.DNA methylation.MeDIP-seq,1
+ENCODE.immortalized cell line.DNA methylation.RRBS,1
+ENCODE.immortalized cell line.DNA methylation.whole-genome shotgun bisulfite sequencing,1
+ENCODE.immortalized cell line.Genotyping,
+ENCODE.immortalized cell line.Genotyping.DNA-PET,1
+ENCODE.immortalized cell line.Genotyping.comparative genomic hybridization by array,1
+ENCODE.immortalized cell line.Proteomics,
+ENCODE.immortalized cell line.Proteomics.protein sequencing by tandem mass spectrometry assay,1
+ENCODE.immortalized cell line.RNA binding,
+ENCODE.immortalized cell line.RNA binding.RIP-chip,1
+ENCODE.immortalized cell line.RNA binding.RIP-seq,1
+ENCODE.immortalized cell line.RNA binding.Switchgear,1
+ENCODE.immortalized cell line.RNA binding.eCLIP,1
+ENCODE.immortalized cell line.RNA binding.iCLIP,1
+ENCODE.immortalized cell line.Replication timing,
+ENCODE.immortalized cell line.Replication timing.Repli-chip,1
+ENCODE.immortalized cell line.Replication timing.Repli-seq,1
+ENCODE.immortalized cell line.Transcription,
+ENCODE.immortalized cell line.Transcription.Knockdown RNAseq,1
+ENCODE.immortalized cell line.Transcription.RNA-PET,1
+ENCODE.immortalized cell line.Transcription.RNA-seq,1
+ENCODE.immortalized cell line.Transcription.microRNA counts,1
+ENCODE.immortalized cell line.Transcription.transcription profiling by array assay,1
+ENCODE.in vitro differentiated cells,
+ENCODE.in vitro differentiated cells.DNA accessibility,
+ENCODE.in vitro differentiated cells.DNA accessibility.DNase-seq,1
+ENCODE.in vitro differentiated cells.DNA binding,
+ENCODE.in vitro differentiated cells.DNA binding.ChIP-seq,1
+ENCODE.in vitro differentiated cells.DNA methylation,
+ENCODE.in vitro differentiated cells.DNA methylation.DNA methylation profiling by array assay,1
+ENCODE.in vitro differentiated cells.DNA methylation.RRBS,1
+ENCODE.in vitro differentiated cells.DNA methylation.whole-genome shotgun bisulfite sequencing,1
+ENCODE.in vitro differentiated cells.Genotyping,
+ENCODE.in vitro differentiated cells.Genotyping.comparative genomic hybridization by array,1
+ENCODE.in vitro differentiated cells.Proteomics,
+ENCODE.in vitro differentiated cells.Proteomics.protein sequencing by tandem mass spectrometry assay,1
+ENCODE.in vitro differentiated cells.Replication timing,
+ENCODE.in vitro differentiated cells.Replication timing.Repli-chip,1
+ENCODE.in vitro differentiated cells.Transcription,
+ENCODE.in vitro differentiated cells.Transcription.RNA-seq,1
+ENCODE.in vitro differentiated cells.Transcription.microRNA counts,1
+ENCODE.in vitro differentiated cells.Transcription.transcription profiling by array assay,1
+ENCODE.in vitro sample,
+ENCODE.in vitro sample.RNA binding,
+ENCODE.in vitro sample.RNA binding.RNA Bind-n-Seq,1
+ENCODE.induced pluripotent stem cell line,
+ENCODE.induced pluripotent stem cell line.DNA accessibility,
+ENCODE.induced pluripotent stem cell line.DNA accessibility.DNase-seq,1
+ENCODE.induced pluripotent stem cell line.DNA binding,
+ENCODE.induced pluripotent stem cell line.DNA binding.ChIP-seq,1
+ENCODE.induced pluripotent stem cell line.DNA methylation,
+ENCODE.induced pluripotent stem cell line.DNA methylation.DNA methylation profiling by array assay,1
+ENCODE.induced pluripotent stem cell line.Replication timing,
+ENCODE.induced pluripotent stem cell line.Replication timing.Repli-chip,1
+ENCODE.induced pluripotent stem cell line.Transcription,
+ENCODE.induced pluripotent stem cell line.Transcription.RNA-seq,1
+ENCODE.induced pluripotent stem cell line.Transcription.microRNA counts,1
+ENCODE.induced pluripotent stem cell line.Transcription.transcription profiling by array assay,1
+ENCODE.primary cell,
+ENCODE.primary cell.3D chromatin structure,
+ENCODE.primary cell.3D chromatin structure.5C,1
+ENCODE.primary cell.3D chromatin structure.HiC,1
+ENCODE.primary cell.DNA accessibility,
+ENCODE.primary cell.DNA accessibility.ATAC-seq,1
+ENCODE.primary cell.DNA accessibility.DNase-seq,1
+ENCODE.primary cell.DNA accessibility.FAIRE-seq,1
+ENCODE.primary cell.DNA binding,
+ENCODE.primary cell.DNA binding.ChIP-seq,1
+ENCODE.primary cell.DNA methylation,
+ENCODE.primary cell.DNA methylation.DNA methylation profiling by array assay,1
+ENCODE.primary cell.DNA methylation.RRBS,1
+ENCODE.primary cell.DNA methylation.whole-genome shotgun bisulfite sequencing,1
+ENCODE.primary cell.Genotyping,
+ENCODE.primary cell.Genotyping.comparative genomic hybridization by array,1
+ENCODE.primary cell.Genotyping.genotyping by high throughput sequencing assay,1
+ENCODE.primary cell.Replication timing,
+ENCODE.primary cell.Replication timing.Repli-chip,1
+ENCODE.primary cell.Replication timing.Repli-seq,1
+ENCODE.primary cell.Transcription,
+ENCODE.primary cell.Transcription.RNA-PET,1
+ENCODE.primary cell.Transcription.RNA-seq,1
+ENCODE.primary cell.Transcription.microRNA counts,1
+ENCODE.primary cell.Transcription.transcription profiling by array assay,1
+ENCODE.stem cell,
+ENCODE.stem cell.3D chromatin structure,
+ENCODE.stem cell.3D chromatin structure.5C,1
+ENCODE.stem cell.DNA accessibility,
+ENCODE.stem cell.DNA accessibility.ATAC-seq,1
+ENCODE.stem cell.DNA accessibility.DNase-seq,1
+ENCODE.stem cell.DNA accessibility.FAIRE-seq,1
+ENCODE.stem cell.DNA binding,
+ENCODE.stem cell.DNA binding.ChIP-seq,1
+ENCODE.stem cell.DNA methylation,
+ENCODE.stem cell.DNA methylation.DNA methylation profiling by array assay,1
+ENCODE.stem cell.DNA methylation.RRBS,1
+ENCODE.stem cell.DNA methylation.whole-genome shotgun bisulfite sequencing,1
+ENCODE.stem cell.Genotyping,
+ENCODE.stem cell.Genotyping.comparative genomic hybridization by array,1
+ENCODE.stem cell.Proteomics,
+ENCODE.stem cell.Proteomics.protein sequencing by tandem mass spectrometry assay,1
+ENCODE.stem cell.RNA binding,
+ENCODE.stem cell.RNA binding.RIP-chip,1
+ENCODE.stem cell.Replication timing,
+ENCODE.stem cell.Replication timing.Repli-chip,1
+ENCODE.stem cell.Replication timing.Repli-seq,1
+ENCODE.stem cell.Transcription,
+ENCODE.stem cell.Transcription.RNA-PET,1
+ENCODE.stem cell.Transcription.RNA-seq,1
+ENCODE.stem cell.Transcription.microRNA counts,1
+ENCODE.stem cell.Transcription.transcription profiling by array assay,1
+ENCODE.tissue,
+ENCODE.tissue.3D chromatin structure,
+ENCODE.tissue.3D chromatin structure.HiC,1
+ENCODE.tissue.DNA accessibility,
+ENCODE.tissue.DNA accessibility.ATAC-seq,1
+ENCODE.tissue.DNA accessibility.DNase-seq,1
+ENCODE.tissue.DNA accessibility.FAIRE-seq,1
+ENCODE.tissue.DNA binding,
+ENCODE.tissue.DNA binding.ChIP-seq,1
+ENCODE.tissue.DNA methylation,
+ENCODE.tissue.DNA methylation.DNA methylation profiling by array assay,1
+ENCODE.tissue.DNA methylation.RRBS,1
+ENCODE.tissue.DNA methylation.whole-genome shotgun bisulfite sequencing,1
+ENCODE.tissue.Genotyping,
+ENCODE.tissue.Genotyping.comparative genomic hybridization by array,1
+ENCODE.tissue.Genotyping.genotyping by high throughput sequencing assay,1
+ENCODE.tissue.RNA binding,
+ENCODE.tissue.RNA binding.eCLIP,1
+ENCODE.tissue.Transcription,
+ENCODE.tissue.Transcription.RNA-PET,1
+ENCODE.tissue.Transcription.RNA-seq,1
+ENCODE.tissue.Transcription.microRNA counts,1
+ENCODE.tissue.Transcription.transcription profiling by array assay,1
