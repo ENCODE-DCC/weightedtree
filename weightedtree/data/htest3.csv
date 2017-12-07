@@ -1,0 +1,44 @@
+id,value
+ENCODE,
+ENCODE.3D chromatin structure,
+ENCODE.3D chromatin structure.5C,2.56494935746
+ENCODE.3D chromatin structure.ChIA-PET,3.66356164613
+ENCODE.3D chromatin structure.HiC,3.40119738166
+ENCODE.DNA accessibility,
+ENCODE.DNA accessibility.ATAC-seq,4.85981240436
+ENCODE.DNA accessibility.DNase-seq,6.15697898559
+ENCODE.DNA accessibility.FAIRE-seq,3.61091791264
+ENCODE.DNA accessibility.MNase-seq,0.69314718056
+ENCODE.DNA accessibility.genetic modification followed by DNase-seq,3.68887945411
+ENCODE.DNA binding,
+ENCODE.DNA binding.Histone ChIP-seq,7.37023064181
+ENCODE.DNA binding.RNA binding protein,3.09104245336
+ENCODE.DNA binding.TF ChIP-seq,7.71556953452
+ENCODE.DNA methylation,
+ENCODE.DNA methylation.DNA methylation profiling by array assay,5.5568280617
+ENCODE.DNA methylation.MRE-seq,1.38629436112
+ENCODE.DNA methylation.MeDIP-seq,1.38629436112
+ENCODE.DNA methylation.RRBS,4.63472898823
+ENCODE.DNA methylation.whole-genome shotgun bisulfite sequencing,4.39444915467
+ENCODE.Genotyping,
+ENCODE.Genotyping.DNA-PET,1.79175946923
+ENCODE.Genotyping.comparative genomic hybridization by array,4.81218435537
+ENCODE.Genotyping.genotyping by high throughput sequencing assay,2.19722457734
+ENCODE.Proteomics,
+ENCODE.Proteomics.protein sequencing by tandem mass spectrometry assay,2.63905732962
+ENCODE.RNA binding,
+ENCODE.RNA binding.RIP-chip,2.8903717579
+ENCODE.RNA binding.RIP-seq,3.61091791264
+ENCODE.RNA binding.RNA Bind-n-Seq,4.35670882669
+ENCODE.RNA binding.Switchgear,0.69314718056
+ENCODE.RNA binding.eCLIP,5.13579843705
+ENCODE.RNA binding.iCLIP,1.60943791243
+ENCODE.Replication timing,
+ENCODE.Replication timing.Repli-chip,4.14313472639
+ENCODE.Replication timing.Repli-seq,4.64439089914
+ENCODE.Transcription,
+ENCODE.Transcription.Knockdown RNAseq,6.39359075395
+ENCODE.Transcription.RNA-PET,3.43398720449
+ENCODE.Transcription.RNA-seq,7.1115121165
+ENCODE.Transcription.microRNA counts,4.74493212836
+ENCODE.Transcription.transcription profiling by array assay,5.13579843705

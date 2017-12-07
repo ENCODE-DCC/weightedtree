@@ -1,0 +1,135 @@
+id,value
+ENCODE.ENCODE2.3D chromatin structure.5C,13
+ENCODE.ENCODE2.3D chromatin structure.ChIA-PET,8
+ENCODE.ENCODE2.DNA accessibility.DNase-seq,209
+ENCODE.ENCODE2.DNA accessibility.FAIRE-seq,37
+ENCODE.ENCODE2.DNA accessibility.MNase-seq,2
+ENCODE.ENCODE2.DNA binding.Histone ChIP-seq,345
+ENCODE.ENCODE2.DNA binding.RNA binding protein,1
+ENCODE.ENCODE2.DNA binding.TF ChIP-seq,881
+ENCODE.ENCODE2.DNA methylation.DNA methylation profiling by array assay,103
+ENCODE.ENCODE2.DNA methylation.MRE-seq,2
+ENCODE.ENCODE2.DNA methylation.MeDIP-seq,2
+ENCODE.ENCODE2.DNA methylation.RRBS,103
+ENCODE.ENCODE2.Genotyping.DNA-PET,6
+ENCODE.ENCODE2.Genotyping.comparative genomic hybridization by array,64
+ENCODE.ENCODE2.Proteomics.protein sequencing by tandem mass spectrometry assay,14
+ENCODE.ENCODE2.RNA binding.RIP-chip,18
+ENCODE.ENCODE2.RNA binding.RIP-seq,4
+ENCODE.ENCODE2.RNA binding.Switchgear,2
+ENCODE.ENCODE2.Replication timing.Repli-chip,27
+ENCODE.ENCODE2.Replication timing.Repli-seq,90
+ENCODE.ENCODE2.Transcription.RNA-PET,31
+ENCODE.ENCODE2.Transcription.RNA-seq,340
+ENCODE.ENCODE2.Transcription.transcription profiling by array assay,170
+ENCODE.ENCODE2-Mouse.DNA accessibility.DNase-seq,55
+ENCODE.ENCODE2-Mouse.DNA binding.Histone ChIP-seq,156
+ENCODE.ENCODE2-Mouse.DNA binding.TF ChIP-seq,176
+ENCODE.ENCODE2-Mouse.DNA methylation.MRE-seq,2
+ENCODE.ENCODE2-Mouse.DNA methylation.MeDIP-seq,2
+ENCODE.ENCODE2-Mouse.Transcription.RNA-seq,98
+ENCODE.ENCODE3.3D chromatin structure.ChIA-PET,31
+ENCODE.ENCODE3.3D chromatin structure.HiC,30
+ENCODE.ENCODE3.DNA accessibility.ATAC-seq,129
+ENCODE.ENCODE3.DNA accessibility.DNase-seq,208
+ENCODE.ENCODE3.DNA accessibility.genetic modification followed by DNase-seq,40
+ENCODE.ENCODE3.DNA binding.Histone ChIP-seq,1070
+ENCODE.ENCODE3.DNA binding.RNA binding protein,21
+ENCODE.ENCODE3.DNA binding.TF ChIP-seq,1181
+ENCODE.ENCODE3.DNA methylation.DNA methylation profiling by array assay,156
+ENCODE.ENCODE3.DNA methylation.whole-genome shotgun bisulfite sequencing,81
+ENCODE.ENCODE3.Genotyping.comparative genomic hybridization by array,59
+ENCODE.ENCODE3.Genotyping.genotyping by high throughput sequencing assay,9
+ENCODE.ENCODE3.RNA binding.RIP-seq,33
+ENCODE.ENCODE3.RNA binding.RNA Bind-n-Seq,78
+ENCODE.ENCODE3.RNA binding.eCLIP,170
+ENCODE.ENCODE3.RNA binding.iCLIP,5
+ENCODE.ENCODE3.Replication timing.Repli-chip,36
+ENCODE.ENCODE3.Replication timing.Repli-seq,14
+ENCODE.ENCODE3.Transcription.Knockdown RNAseq,598
+ENCODE.ENCODE3.Transcription.RNA-seq,780
+ENCODE.ENCODE3.Transcription.microRNA counts,115
+ENCODE.ENCODE4.DNA binding.Histone ChIP-seq,17
+ENCODE.ENCODE4.DNA binding.TF ChIP-seq,5
+ENCODE.ENCODE4.Transcription.RNA-seq,8
+ENCODE.ENCODE3.3D chromatin structure,
+ENCODE.ENCODE2.DNA methylation.DNA methylation profiling by array assay,
+ENCODE.ENCODE3.DNA binding.RNA binding protein,
+ENCODE.ENCODE2.DNA accessibility.MNase-seq,
+ENCODE.ENCODE4.DNA binding,
+ENCODE.ENCODE2.3D chromatin structure.5C,
+ENCODE.ENCODE2.Genotyping.comparative genomic hybridization by array,
+ENCODE.ENCODE2-Mouse,
+ENCODE.ENCODE2.Transcription.RNA-PET,
+ENCODE.ENCODE3.DNA accessibility.ATAC-seq,
+ENCODE.ENCODE3.Replication timing.Repli-chip,
+ENCODE.ENCODE2.RNA binding,
+ENCODE.ENCODE2.Transcription,
+ENCODE.ENCODE2.DNA binding.TF ChIP-seq,
+ENCODE.ENCODE2-Mouse.DNA methylation.MRE-seq,
+ENCODE.ENCODE3.3D chromatin structure.ChIA-PET,
+ENCODE.ENCODE3.Replication timing.Repli-seq,
+ENCODE.ENCODE3.DNA accessibility,
+ENCODE.ENCODE2-Mouse.Transcription,
+ENCODE.ENCODE3.DNA accessibility.genetic modification followed by DNase-seq,
+ENCODE.ENCODE2.RNA binding.RIP-seq,
+ENCODE.ENCODE3.DNA binding.Histone ChIP-seq,
+ENCODE.ENCODE3.DNA methylation.whole-genome shotgun bisulfite sequencing,
+ENCODE.ENCODE3.RNA binding.RNA Bind-n-Seq,
+ENCODE.ENCODE4.Transcription.RNA-seq,
+ENCODE.ENCODE2.Proteomics.protein sequencing by tandem mass spectrometry assay,
+ENCODE.ENCODE2.Replication timing.Repli-chip,
+ENCODE.ENCODE2-Mouse.DNA binding.Histone ChIP-seq,
+ENCODE.ENCODE2.RNA binding.Switchgear,
+ENCODE.ENCODE3.DNA binding.TF ChIP-seq,
+ENCODE,
+ENCODE.ENCODE2.DNA methylation,
+ENCODE.ENCODE3.DNA binding,
+ENCODE.ENCODE3.RNA binding,
+ENCODE.ENCODE2.Replication timing.Repli-seq,
+ENCODE.ENCODE2,
+ENCODE.ENCODE2-Mouse.DNA binding.TF ChIP-seq,
+ENCODE.ENCODE2-Mouse.Transcription.RNA-seq,
+ENCODE.ENCODE2.DNA accessibility.DNase-seq,
+ENCODE.ENCODE2.3D chromatin structure.ChIA-PET,
+ENCODE.ENCODE3.3D chromatin structure.HiC,
+ENCODE.ENCODE3.Transcription.RNA-seq,
+ENCODE.ENCODE4.DNA binding.Histone ChIP-seq,
+ENCODE.ENCODE2.DNA binding.Histone ChIP-seq,
+ENCODE.ENCODE4.DNA binding.TF ChIP-seq,
+ENCODE.ENCODE2.3D chromatin structure,
+ENCODE.ENCODE2.DNA binding.RNA binding protein,
+ENCODE.ENCODE3.Transcription.Knockdown RNAseq,
+ENCODE.ENCODE3.Genotyping.comparative genomic hybridization by array,
+ENCODE.ENCODE2.RNA binding.RIP-chip,
+ENCODE.ENCODE3.RNA binding.iCLIP,
+ENCODE.ENCODE3.DNA methylation,
+ENCODE.ENCODE3.Genotyping,
+ENCODE.ENCODE3,
+ENCODE.ENCODE2.DNA accessibility,
+ENCODE.ENCODE3.Replication timing,
+ENCODE.ENCODE3.Transcription,
+ENCODE.ENCODE2.DNA methylation.MeDIP-seq,
+ENCODE.ENCODE2.Replication timing,
+ENCODE.ENCODE2.Proteomics,
+ENCODE.ENCODE2.Genotyping.DNA-PET,
+ENCODE.ENCODE2.Transcription.transcription profiling by array assay,
+ENCODE.ENCODE2-Mouse.DNA methylation,
+ENCODE.ENCODE2.DNA methylation.MRE-seq,
+ENCODE.ENCODE3.DNA methylation.DNA methylation profiling by array assay,
+ENCODE.ENCODE2-Mouse.DNA binding,
+ENCODE.ENCODE3.RNA binding.RIP-seq,
+ENCODE.ENCODE3.RNA binding.eCLIP,
+ENCODE.ENCODE4.Transcription,
+ENCODE.ENCODE3.Genotyping.genotyping by high throughput sequencing assay,
+ENCODE.ENCODE2.Genotyping,
+ENCODE.ENCODE2.DNA methylation.RRBS,
+ENCODE.ENCODE2-Mouse.DNA accessibility,
+ENCODE.ENCODE4,
+ENCODE.ENCODE2.Transcription.RNA-seq,
+ENCODE.ENCODE2-Mouse.DNA accessibility.DNase-seq,
+ENCODE.ENCODE3.Transcription.microRNA counts,
+ENCODE.ENCODE2.DNA binding,
+ENCODE.ENCODE2.DNA accessibility.FAIRE-seq,
+ENCODE.ENCODE3.DNA accessibility.DNase-seq,
+ENCODE.ENCODE2-Mouse.DNA methylation.MeDIP-seq,

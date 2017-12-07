@@ -1,0 +1,91 @@
+type,year,accession
+5C,2011,9
+5C,2012,4
+ATAC-seq,2016,42
+ATAC-seq,2017,87
+ChIA-PET,2012,8
+ChIA-PET,2014,7
+ChIA-PET,2016,24
+DNA methylation profiling by array assay,2011,103
+DNA methylation profiling by array assay,2017,156
+DNA-PET,2011,6
+DNase-seq,2010,49
+DNase-seq,2011,97
+DNase-seq,2012,108
+DNase-seq,2013,9
+DNase-seq,2015,79
+DNase-seq,2016,75
+DNase-seq,2017,55
+FAIRE-seq,2011,25
+FAIRE-seq,2012,12
+HiC,2016,12
+HiC,2017,18
+Histone ChIP-seq,2011,254
+Histone ChIP-seq,2012,222
+Histone ChIP-seq,2014,369
+Histone ChIP-seq,2015,140
+Histone ChIP-seq,2016,482
+Histone ChIP-seq,2017,121
+Knockdown RNAseq,2014,223
+Knockdown RNAseq,2015,82
+Knockdown RNAseq,2016,195
+Knockdown RNAseq,2017,98
+MNase-seq,2011,2
+MRE-seq,2014,4
+MeDIP-seq,2014,4
+RIP-chip,2011,18
+RIP-seq,2011,4
+RIP-seq,2016,33
+RNA Bind-n-Seq,2014,14
+RNA Bind-n-Seq,2015,21
+RNA Bind-n-Seq,2016,42
+RNA Bind-n-Seq,2017,1
+RNA binding protein,2011,1
+RNA binding protein,2016,8
+RNA binding protein,2017,13
+RNA-PET,2011,19
+RNA-PET,2012,12
+RNA-seq,2010,7
+RNA-seq,2011,126
+RNA-seq,2012,278
+RNA-seq,2013,1
+RNA-seq,2014,251
+RNA-seq,2015,165
+RNA-seq,2016,352
+RNA-seq,2017,46
+RRBS,2010,19
+RRBS,2011,82
+RRBS,2012,2
+Repli-chip,2012,27
+Repli-chip,2015,36
+Repli-seq,2012,90
+Repli-seq,2017,14
+Switchgear,2011,2
+TF ChIP-seq,2011,582
+TF ChIP-seq,2012,454
+TF ChIP-seq,2014,112
+TF ChIP-seq,2016,695
+TF ChIP-seq,2017,400
+comparative genomic hybridization by array,2011,64
+comparative genomic hybridization by array,2016,59
+eCLIP,2015,81
+eCLIP,2016,79
+eCLIP,2017,10
+genetic modification followed by DNase-seq,2015,9
+genetic modification followed by DNase-seq,2016,31
+genotyping by high throughput sequencing assay,2016,5
+genotyping by high throughput sequencing assay,2017,4
+iCLIP,2014,2
+iCLIP,2015,2
+iCLIP,2016,1
+microRNA counts,2015,21
+microRNA counts,2016,69
+microRNA counts,2017,25
+protein sequencing by tandem mass spectrometry assay,2011,7
+protein sequencing by tandem mass spectrometry assay,2012,7
+transcription profiling by array assay,2009,24
+transcription profiling by array assay,2011,107
+transcription profiling by array assay,2012,39
+whole-genome shotgun bisulfite sequencing,2014,38
+whole-genome shotgun bisulfite sequencing,2015,23
+whole-genome shotgun bisulfite sequencing,2016,20

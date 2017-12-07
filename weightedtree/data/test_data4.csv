@@ -1,0 +1,34 @@
+type,category,accession
+5C,3D chromatin structure,13
+ATAC-seq,DNA accessibility,129
+ChIA-PET,3D chromatin structure,39
+DNA methylation profiling by array assay,DNA methylation,259
+DNA-PET,Genotyping,6
+DNase-seq,DNA accessibility,472
+FAIRE-seq,DNA accessibility,37
+HiC,3D chromatin structure,30
+Histone ChIP-seq,DNA binding,1588
+Knockdown RNAseq,Transcription,598
+MNase-seq,DNA accessibility,2
+MRE-seq,DNA methylation,4
+MeDIP-seq,DNA methylation,4
+RIP-chip,RNA binding,18
+RIP-seq,RNA binding,37
+RNA Bind-n-Seq,RNA binding,78
+RNA binding protein,DNA binding,22
+RNA-PET,Transcription,31
+RNA-seq,Transcription,1226
+RRBS,DNA methylation,103
+Repli-chip,Replication timing,63
+Repli-seq,Replication timing,104
+Switchgear,RNA binding,2
+TF ChIP-seq,DNA binding,2243
+comparative genomic hybridization by array,Genotyping,123
+eCLIP,RNA binding,170
+genetic modification followed by DNase-seq,DNA accessibility,40
+genotyping by high throughput sequencing assay,Genotyping,9
+iCLIP,RNA binding,5
+microRNA counts,Transcription,115
+protein sequencing by tandem mass spectrometry assay,Proteomics,14
+transcription profiling by array assay,Transcription,170
+whole-genome shotgun bisulfite sequencing,DNA methylation,81

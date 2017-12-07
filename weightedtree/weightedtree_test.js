@@ -42,18 +42,16 @@ var theme;
 var data = {};
 
 // stores the currently selected value field
-var valueField = "Federal";
-var valueFields = ["Federal", "State", "Local"];
+var valueField = "accession";
+var valueFields = ["accession"];
 
 
-var formatCurrency = function (d) { if (isNaN(d)) d = 0; return "$" + d3.format(",.2f")(d) + " Billion"; };
+var formatCurrency = function (d) { if (isNaN(d)) d = 0; return d; };
 
 function loadData() {
 
-    d3.csv("data/Experiments_2017_11_30_hierarchical.csv", function (csv) {
-
-        data.values=prepData(csv);
-
+    d3.csv("data/test_data4.csv", function (csv) {
+        data.values = prepData(csv);
         var blob = JSON.stringify(data);
 
         initialize();
@@ -64,31 +62,15 @@ function loadData() {
 
 function prepData(csv) {
 
-    var values=[];
-
-    //Clean federal budget data and remove all rows where all values are zero or no labels
-    csv.forEach(function (d,i) {
-        var t = 0;
-        for (var i = 0; i < valueFields.length; i++) {
-            t += Number(d[valueFields[i]]);
-        }
-        if (t > 0) {
-            values.push(d);
-        }
-    })
-
     //Make our data into a nested tree.  If you already have a nested structure you don't need to do this.
     var nest = d3.nest()
         .key(function (d) {
-            return d.Level1;
-        })
+            return d.category;
+        }) 
         .key(function (d) {
-            return d.Level2;
+            return d.type;
         })
-        .key(function (d) {
-            return d.Level3;
-        })
-        .entries(values);
+        .entries(csv);
 
 
     //This will be a viz.data function;
@@ -117,7 +99,6 @@ function prepData(csv) {
     node.values = nest;
     removeEmptyNodes(node,"0","0");
 
-
     var blob = JSON.stringify(nest);
 
     return nest;
@@ -126,9 +107,7 @@ function prepData(csv) {
 
 function initialize() {
 
-
     viz = vizuly.viz.weighted_tree(document.getElementById("viz_container"));
-
 
     //Here we create three vizuly themes for each radial progress component.
     //A theme manages the look and feel of the component output.  You can only have
@@ -158,15 +137,15 @@ function initialize() {
     changeSize(d3.select("#currentDisplay").attr("item_value"));
 
     // Open up some of the tree branches.
-    viz.toggleNode(data.values[2]);
-    viz.toggleNode(data.values[2].values[0]);
-    viz.toggleNode(data.values[3]);
+    //viz.toggleNode(data.values[2]);
+   // viz.toggleNode(data.values[2].values[0]);
+   // viz.toggleNode(data.values[3]);
 
 }
 
 
 function trimLabel(label) {
-   return (String(label).length > 20) ? String(label).substr(0, 17) + "..." : label;
+   return (String(label).length > 100) ? String(label).substr(0, 17) + "..." : label;
 }
 
 
@@ -175,17 +154,15 @@ var datatip='<div class="tooltip" style="width: 250px; background-opacity:.5">' 
     '<div class="header-rule"></div>' +
     '<div class="header2"> HEADER2 </div>' +
     '<div class="header-rule"></div>' +
-    '<div class="header3"> HEADER3 </div>' +
     '</div>';
 
 
 // This function uses the above html template to replace values and then creates a new <div> that it appends to the
 // document.body.  This is just one way you could implement a data tip.
-function createDataTip(x,y,h1,h2,h3) {
+function createDataTip(x,y,h1,h2) {
 
     var html = datatip.replace("HEADER1", h1);
     html = html.replace("HEADER2", h2);
-    html = html.replace("HEADER3", h3);
 
     d3.select("body")
         .append("div")
@@ -209,7 +186,8 @@ function onMouseOver(e,d,i) {
     if (d == data) return;
     var rect = e.getBoundingClientRect();
     if (d.target) d = d.target; //This if for link elements
-    createDataTip(rect.left, (rect.top+viz.height() *.05), (d.key || (d['Level' + d.depth])), formatCurrency(d["agg_" + valueField]),valueField);
+    createDataTip(rect.left, (rect.top + viz.height() * .05), d.key, formatCurrency(d["agg_" + valueField]));
+    console.log(d.key, d.agg_accession);
 
 
 }
@@ -243,8 +221,8 @@ function changeSkin(val) {
 //This changes the size of the component by adjusting the width/height;
 function changeSize(val) {
     var s = String(val).split(",");
-    viz_container.transition().duration(300).style('width', s[0] + 'px').style('height', s[1] + 'px');
-    viz.width(s[0]).height(s[1]*.8).update();
+    viz_container.transition().duration(300).style('width', s[0] * 1.2 + 'px').style('height', s[1] + 'px');
+    viz.width(s[0] * 0.8).height(s[1] * 0.7).update();
 }
 
 //This sets the same value for each radial progress

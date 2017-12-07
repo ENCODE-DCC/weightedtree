@@ -44,39 +44,12 @@ div.container {
     top:100px;
 }
 
-.tile {
-    font-family:Raleway;
-    font-weight:300;
-}
-
-.heading {
-    font-family:Raleway;
-    font-weight:300;
-}
-
-.side-nav li:hover {
-    background-color:#FFF;
-}
-
-.leftAxis {
-    font-weight:200;
-}
-
 
 .datatip-value {
     position:absolute;
     right:10px;
 }
 
-.title {
-    font-family: "Roboto";
-    font-size: 20px;
-    font-weight:200;
-}
-
-.vizuly {
-    font-family: "Raleway"
-}
 
 svg {
     border-radius: 4px;
@@ -90,7 +63,7 @@ svg {
 }
 
 .vz-tip-hover {
-    font-weight:300;
+    font-weight:200;
 }
 
 .vz-tip-hover text{
@@ -101,51 +74,6 @@ svg {
     font-family:Raleway;
     font-weight:300;
     text-anchor:middle;
-}
-
-/* MATERIAL.CSS */
-
-[type="radio"]:checked + label:after {
-    background-color:#448AFF;
-    border-color: #3864c9;
-}
-
-[type="radio"] + label {
-    border-color: #3864c9;
-}
-
-.input-field {
-    margin-left: 0px;
-    padding-bottom: 5px;
-    font-family: "Roboto";
-}
-
-.dropdown-content {
-    font-family:"Roboto";
-    font-size:.5em;
-}
-
-.dropdown-content li span {
-    font-family:"Roboto";
-    font-size:1.75em;
-}
-
-div.input-field label {
-    margin-left:-10px;
-}
-
-.mdi-navigation-menu {
-    font-size:30px;
-    color:#444;
-}
-
-div.settings-label {
-    font-size:12px;
-    color:#BBB;
-    font-style: italic;
-    margin-top:-10px;
-    margin-bottom:40px;
-    font-weight:300;
 }
 
 div.tooltip {
@@ -168,51 +96,6 @@ div.tooltip {
 }
 
 
-.header-rule{
-    height:1px;
-    margin:1px auto 3px;
-    margin-top:7px;
-    margin-bottom:7px;
-    background:#ddd;
-    width:125px;
-}
-
-.header1{
-    color:#000;
-    text-transform:uppercase;
-    font-size: 12px;
-    margin-bottom: 2px;
-    text-align:center;
-}
-
-.header2 {
-    text-transform: uppercase;
-    text-align: left;
-    font-size: 14px;
-    margin-bottom: 2px;
-    color:#666;
-    text-align:center;
-}
-
-.header3 {
-    color:#333;
-    text-align: left;
-    font-size: 15px;
-    font-style: italic;
-    font-family: Georgia;
-    /*  width:170px;*/
-    text-align:center;
-}
-
-
-i.mdi-navigation-menu:before {
-    font-size:40px;
-    content: "\e662";
-}
-i.mdi-navigation-menu:hover {
-    transition: color 0.5s ease;
-    color: #0176B4;
-}
 
 #myDataTip {
     font-family:Raleway;

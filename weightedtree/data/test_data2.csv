@@ -1,0 +1,91 @@
+year,category,type,accession
+2009,Transcription,transcription profiling by array assay,24
+2010,DNA accessibility,DNase-seq,49
+2010,DNA methylation,RRBS,19
+2010,Transcription,RNA-seq,7
+2011,3D chromatin structure,5C,9
+2011,DNA accessibility,DNase-seq,97
+2011,DNA accessibility,FAIRE-seq,25
+2011,DNA accessibility,MNase-seq,2
+2011,DNA binding,Histone ChIP-seq,254
+2011,DNA binding,RNA binding protein,1
+2011,DNA binding,TF ChIP-seq,582
+2011,DNA methylation,DNA methylation profiling by array assay,103
+2011,DNA methylation,RRBS,82
+2011,Genotyping,DNA-PET,6
+2011,Genotyping,comparative genomic hybridization by array,64
+2011,Proteomics,protein sequencing by tandem mass spectrometry assay,7
+2011,RNA binding,RIP-chip,18
+2011,RNA binding,RIP-seq,4
+2011,RNA binding,Switchgear,2
+2011,Transcription,RNA-PET,19
+2011,Transcription,RNA-seq,126
+2011,Transcription,transcription profiling by array assay,107
+2012,3D chromatin structure,5C,4
+2012,3D chromatin structure,ChIA-PET,8
+2012,DNA accessibility,DNase-seq,108
+2012,DNA accessibility,FAIRE-seq,12
+2012,DNA binding,Histone ChIP-seq,222
+2012,DNA binding,TF ChIP-seq,454
+2012,DNA methylation,RRBS,2
+2012,Proteomics,protein sequencing by tandem mass spectrometry assay,7
+2012,Replication timing,Repli-chip,27
+2012,Replication timing,Repli-seq,90
+2012,Transcription,RNA-PET,12
+2012,Transcription,RNA-seq,278
+2012,Transcription,transcription profiling by array assay,39
+2013,DNA accessibility,DNase-seq,9
+2013,Transcription,RNA-seq,1
+2014,3D chromatin structure,ChIA-PET,7
+2014,DNA binding,Histone ChIP-seq,369
+2014,DNA binding,TF ChIP-seq,112
+2014,DNA methylation,MRE-seq,4
+2014,DNA methylation,MeDIP-seq,4
+2014,DNA methylation,whole-genome shotgun bisulfite sequencing,38
+2014,RNA binding,RNA Bind-n-Seq,14
+2014,RNA binding,iCLIP,2
+2014,Transcription,Knockdown RNAseq,223
+2014,Transcription,RNA-seq,251
+2015,DNA accessibility,DNase-seq,79
+2015,DNA accessibility,genetic modification followed by DNase-seq,9
+2015,DNA binding,Histone ChIP-seq,140
+2015,DNA methylation,whole-genome shotgun bisulfite sequencing,23
+2015,RNA binding,RNA Bind-n-Seq,21
+2015,RNA binding,eCLIP,81
+2015,RNA binding,iCLIP,2
+2015,Replication timing,Repli-chip,36
+2015,Transcription,Knockdown RNAseq,82
+2015,Transcription,RNA-seq,165
+2015,Transcription,microRNA counts,21
+2016,3D chromatin structure,ChIA-PET,24
+2016,3D chromatin structure,HiC,12
+2016,DNA accessibility,ATAC-seq,42
+2016,DNA accessibility,DNase-seq,75
+2016,DNA accessibility,genetic modification followed by DNase-seq,31
+2016,DNA binding,Histone ChIP-seq,482
+2016,DNA binding,RNA binding protein,8
+2016,DNA binding,TF ChIP-seq,695
+2016,DNA methylation,whole-genome shotgun bisulfite sequencing,20
+2016,Genotyping,comparative genomic hybridization by array,59
+2016,Genotyping,genotyping by high throughput sequencing assay,5
+2016,RNA binding,RIP-seq,33
+2016,RNA binding,RNA Bind-n-Seq,42
+2016,RNA binding,eCLIP,79
+2016,RNA binding,iCLIP,1
+2016,Transcription,Knockdown RNAseq,195
+2016,Transcription,RNA-seq,352
+2016,Transcription,microRNA counts,69
+2017,3D chromatin structure,HiC,18
+2017,DNA accessibility,ATAC-seq,87
+2017,DNA accessibility,DNase-seq,55
+2017,DNA binding,Histone ChIP-seq,121
+2017,DNA binding,RNA binding protein,13
+2017,DNA binding,TF ChIP-seq,400
+2017,DNA methylation,DNA methylation profiling by array assay,156
+2017,Genotyping,genotyping by high throughput sequencing assay,4
+2017,RNA binding,RNA Bind-n-Seq,1
+2017,RNA binding,eCLIP,10
+2017,Replication timing,Repli-seq,14
+2017,Transcription,Knockdown RNAseq,98
+2017,Transcription,RNA-seq,46
+2017,Transcription,microRNA counts,25

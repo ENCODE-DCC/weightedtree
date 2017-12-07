@@ -6,13 +6,18 @@ div.vz-weighted_tree-viz {
 
 
 .vz-weighted_tree-viz circle {
-    fill:#777;
     fill-opacity:.5;
 }
 
 
 .vz-weighted_tree-viz text {
-    fill:#777;
+    fill: black !important;
+    font-family: Quicksand !important;
+}
+
+.vz-weighted_tree-node text {
+    font-size: 14px !important;
+    font-weight: bold !important;
 }
 
 .vz-weighted_tree-viz path {
@@ -39,7 +44,6 @@ div.vz-weighted_tree-viz {
 
 svg.vz-weighted_tree-viz {
     fill:none;
-    font-family:Roboto;
     pointer-events:visible;
 }
 
@@ -54,3 +58,19 @@ div.radial_container {
     border-radius:6px;
 }
 
+
+.vz-weighted_tree-link {
+}
+
+.vz-weighted_tree-node circle {
+    fill: red !important;
+    
+}
+
+.vz-weighted_tree-tip div {
+    width: 100px !important;
+    font-family: Quicksand !important;
+    font-size: 12px;
+    text-align: center;
+
+}

@@ -1,0 +1,44 @@
+id,value
+ENCODE,
+ENCODE.3D chromatin structure,
+ENCODE.3D chromatin structure.5C,13
+ENCODE.3D chromatin structure.ChIA-PET,39
+ENCODE.3D chromatin structure.HiC,30
+ENCODE.DNA accessibility,
+ENCODE.DNA accessibility.ATAC-seq,129
+ENCODE.DNA accessibility.DNase-seq,472
+ENCODE.DNA accessibility.FAIRE-seq,37
+ENCODE.DNA accessibility.MNase-seq,2
+ENCODE.DNA accessibility.genetic modification followed by DNase-seq,40
+ENCODE.DNA binding,
+ENCODE.DNA binding.Histone ChIP-seq,1588
+ENCODE.DNA binding.RNA binding protein,22
+ENCODE.DNA binding.TF ChIP-seq,2243
+ENCODE.DNA methylation,
+ENCODE.DNA methylation.DNA methylation profiling by array assay,259
+ENCODE.DNA methylation.MRE-seq,4
+ENCODE.DNA methylation.MeDIP-seq,4
+ENCODE.DNA methylation.RRBS,103
+ENCODE.DNA methylation.whole-genome shotgun bisulfite sequencing,81
+ENCODE.Genotyping,
+ENCODE.Genotyping.DNA-PET,6
+ENCODE.Genotyping.comparative genomic hybridization by array,123
+ENCODE.Genotyping.genotyping by high throughput sequencing assay,9
+ENCODE.Proteomics,
+ENCODE.Proteomics.protein sequencing by tandem mass spectrometry assay,14
+ENCODE.RNA binding,
+ENCODE.RNA binding.RIP-chip,18
+ENCODE.RNA binding.RIP-seq,37
+ENCODE.RNA binding.RNA Bind-n-Seq,78
+ENCODE.RNA binding.Switchgear,2
+ENCODE.RNA binding.eCLIP,170
+ENCODE.RNA binding.iCLIP,5
+ENCODE.Replication timing,
+ENCODE.Replication timing.Repli-chip,63
+ENCODE.Replication timing.Repli-seq,104
+ENCODE.Transcription,
+ENCODE.Transcription.Knockdown RNAseq,598
+ENCODE.Transcription.RNA-PET,31
+ENCODE.Transcription.RNA-seq,1226
+ENCODE.Transcription.microRNA counts,115
+ENCODE.Transcription.transcription profiling by array assay,170
